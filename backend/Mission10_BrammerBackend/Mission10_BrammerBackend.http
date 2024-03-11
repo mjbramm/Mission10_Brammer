@@ -1,0 +1,6 @@
+@Mission10_BrammerBackend_HostAddress = http://localhost:5143
+
+GET {{Mission10_BrammerBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
