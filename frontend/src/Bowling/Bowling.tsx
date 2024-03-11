@@ -15,9 +15,9 @@ function BowlingDataList() {
 
   return (
     <div>
-      <h3>Bowling Info List</h3>
-      <table>
-        <thead>
+      {/* <h3>Bowler Info List</h3> */}
+      <table className="table table-bordered table-striped">
+        <thead className="thead-dark">
           <tr>
             <th>BowlerName (First, Middle, Last)</th>
             <th>TeamName</th>
@@ -34,7 +34,7 @@ function BowlingDataList() {
               <td>
                 {b.bowlerFirstName}, {b.bowlerMiddleInit}, {b.bowlerLastName}
               </td>
-              <td>{b.team}</td>
+              <td>{b.teamId === 1 ? 'Marlins' : 'Sharks'}</td>
               <td>{b.bowlerAddress}</td>
               <td>{b.bowlerCity}</td>
               <td>{b.bowlerState}</td>

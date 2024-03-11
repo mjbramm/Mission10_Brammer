@@ -125,3 +125,4 @@ C:\Users\meist\source\repos\Mission10_Brammer\backend\Mission10_BrammerBackend\o
 C:\Users\meist\source\repos\Mission10_Brammer\backend\Mission10_BrammerBackend\obj\Debug\net8.0\Mission10_BrammerBackend.pdb
 C:\Users\meist\source\repos\Mission10_Brammer\backend\Mission10_BrammerBackend\obj\Debug\net8.0\Mission10_BrammerBackend.genruntimeconfig.cache
 C:\Users\meist\source\repos\Mission10_Brammer\backend\Mission10_BrammerBackend\obj\Debug\net8.0\ref\Mission10_BrammerBackend.dll
+C:\Users\meist\source\repos\Mission10_Brammer\backend\Mission10_BrammerBackend\obj\Debug\net8.0\Mission10_BrammerBackend.sourcelink.json
